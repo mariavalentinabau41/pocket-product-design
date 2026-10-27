@@ -56,6 +56,16 @@ Explore the complete design and screens in Figma.
 | Design Tool | Figma |
 | Status | Portfolio Project |
 
+
+<p align="center">
+  <img
+    src="assets/pocket-preview.png"
+    alt="Pocket mobile app design preview"
+    width="800"
+  />
+</p>
+
+
 ## About Me
 
 I'm a Software Engineering student interested in Product Design, Product Management, and building digital experiences that combine usability, functionality, and thoughtful design.
