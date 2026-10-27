@@ -59,7 +59,7 @@ Explore the complete design and screens in Figma.
 
 <p align="center">
   <img
-    src="assets/pocket-preview.png"
+    src="pocket-preview.png"
     alt="Pocket mobile app design preview"
     width="800"
   />
